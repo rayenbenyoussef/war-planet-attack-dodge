@@ -1,0 +1,16 @@
+{"reason": "red screen border", "kind": "alert", "time": "17:55:42"}
+{"reason": "red screen border", "result": "dodged", "tries": 3, "duration": "11.3s", "note": "STASH -> WAR -> TELEPORT -> USE", "kind": "dodge", "time": "17:55:54"}
+{"reason": "red screen border", "kind": "alert", "time": "17:58:01"}
+{"reason": "red screen border", "result": "dodged", "tries": 2, "duration": "6.3s", "note": "STASH -> WAR -> TELEPORT -> USE", "kind": "dodge", "time": "17:58:07"}
+{"reason": "red screen border", "kind": "alert", "time": "18:04:32"}
+{"reason": "red screen border", "result": "dodged", "tries": 2, "duration": "7.6s", "note": "STASH -> WAR -> TELEPORT -> USE", "kind": "dodge", "time": "18:04:39"}
+{"reason": "red screen border", "kind": "alert", "time": "18:05:14"}
+{"reason": "red screen border", "result": "dodged", "tries": 1, "duration": "0.9s", "note": "STASH -> WAR -> TELEPORT -> USE", "kind": "dodge", "time": "18:05:15"}
+{"reason": "red screen border", "kind": "alert", "time": "18:06:59"}
+{"reason": "red screen border", "result": "dodged", "tries": 1, "duration": "0.9s", "note": "STASH -> WAR -> TELEPORT -> USE", "kind": "dodge", "time": "18:07:00"}
+{"reason": "red screen border", "kind": "alert", "time": "18:07:28"}
+{"reason": "red screen border", "result": "dodged", "tries": 1, "duration": "0.9s", "note": "STASH -> WAR -> TELEPORT -> USE", "kind": "dodge", "time": "18:07:29"}
+{"reason": "red screen border", "kind": "alert", "time": "18:16:03"}
+{"reason": "red screen border", "result": "dodged", "tries": 2, "duration": "7.4s", "note": "STASH -> WAR -> TELEPORT -> USE", "kind": "dodge", "time": "18:16:11"}
+{"reason": "red screen border", "kind": "alert", "time": "18:21:52"}
+{"reason": "red screen border", "result": "dodged", "tries": 1, "duration": "4.0s", "note": "STASH -> WAR -> TELEPORT -> USE", "kind": "dodge", "time": "18:21:56"}
